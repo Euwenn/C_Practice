@@ -24,9 +24,5 @@ int main(void) {
   printf("x: %f\n", x);
   
 
-
-  
-
-
   return 0;
 }
