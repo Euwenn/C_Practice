@@ -15,9 +15,7 @@ int main(void) {
 
   float x = 5.2;
   double y = -9.8;
-  char test = "test";
-
-  printf("%c", test);
+  
 
   printf("x:");
   scanf("%f", &x);
